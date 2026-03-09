@@ -1,2 +1,4 @@
-# c--portfolio-projects
-Portfolio of projects developed in C# using the Microsoft .NET framework, demonstrating skills in software development, problem-solving, and object-oriented programming.
+# c#-portfolio-projects
+This repository contains a collection of projects built using C# and the Microsoft .NET framework.
+The goal is to showcase practical programming skills, including object-oriented programming, problem-solving, and software development practices.
+The projects included here demonstrate real-world applications and continuous learning in C# development.
