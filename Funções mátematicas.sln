@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funções mátematicas", "Funções mátematicas\Funções mátematicas.csproj", "{A80B225C-9C6C-46A5-AB5E-36A98AAB2141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80B225C-9C6C-46A5-AB5E-36A98AAB2141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80B225C-9C6C-46A5-AB5E-36A98AAB2141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80B225C-9C6C-46A5-AB5E-36A98AAB2141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80B225C-9C6C-46A5-AB5E-36A98AAB2141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5726C4E1-A104-454B-B3CA-AE16A9781E6F}
+	EndGlobalSection
+EndGlobal
